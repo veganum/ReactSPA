@@ -5,6 +5,7 @@ export default function Products() {
   return (
     <h1 className="products">
       <iframe
+        title="bot"
         allow="microphone;"
         width="350"
         height="430"
