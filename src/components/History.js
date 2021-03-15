@@ -16,7 +16,7 @@ function History(props) {
             </p>
           </div>
           <div class="historyRight">
-            <img className="img" src="images/fotoJose.jpg" />
+            <img className="img" alt="mi imagen" src="images/fotoJose.jpg" />
           </div>
         </div>
       </div>
